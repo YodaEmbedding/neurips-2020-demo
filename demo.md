@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 ## ColliFlow: A Library for Executing Collaborative Intelligence Graphs
