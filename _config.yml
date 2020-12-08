@@ -1,1 +1,23 @@
+title: ColliFlow
+email: mateen_ulhaq@sfu.ca
+description: >-
+  A Library for Executing Collaborative Intelligence Graphs
+github_username:  yodaembedding
+
+markdown: kramdown
+# theme: minima
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
