@@ -8,7 +8,7 @@ layout: default
 
 *NeurIPS 2020 demo.*
 
-<b><a href="https://www.dropbox.com/s/j7y8j77uju5pcor/neurips_demo_2020_abstract.pdf?dl=0">Abstract (PDF)</a></b>
+<b><a href="https://www.dropbox.com/s/j7y8j77uju5pcor/neurips_demo_2020_abstract.pdf?dl=1">Abstract (PDF)</a></b>
 
 Collaborative intelligence is a technique for using more than one computing device to perform a computational task.
 A possible application of this technique is to assist mobile client edge devices in performing inference of deep learning models by sharing the workload with a server.
