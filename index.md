@@ -4,8 +4,10 @@ layout: default
 
 ## ColliFlow: A Library for Executing Collaborative Intelligence Graphs
 
-NeurIPS 2020 demo webpage.
+*NeurIPS 2020 demo.*
 
-Will be made public at demo time (8 PM PST).
+**NOTE: Demo will be made public at demo time (8 PM PST).**
 
 <hr />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sHySFCUzh6s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
