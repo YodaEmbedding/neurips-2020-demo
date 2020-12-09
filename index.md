@@ -53,6 +53,7 @@ Please bookmark to stay tuned!
 <hr />
 <br />
 
+<!--
 <br />
 <br />
 <div style="text-align: center; font-size: 24px">
@@ -61,6 +62,7 @@ Please bookmark to stay tuned!
 <br />
 <br />
 <br />
+-->
 
 <br />
 <br />
